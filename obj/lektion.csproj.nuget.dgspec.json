@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jespe\\Desktop\\lektion\\lektion.csproj": {}
+    "C:\\Users\\Niklas Allard\\Desktop\\KYH\\CICD\\xunit_count\\testontestontest\\lektion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jespe\\Desktop\\lektion\\lektion.csproj": {
+    "C:\\Users\\Niklas Allard\\Desktop\\KYH\\CICD\\xunit_count\\testontestontest\\lektion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jespe\\Desktop\\lektion\\lektion.csproj",
+        "projectUniqueName": "C:\\Users\\Niklas Allard\\Desktop\\KYH\\CICD\\xunit_count\\testontestontest\\lektion.csproj",
         "projectName": "lektion",
-        "projectPath": "C:\\Users\\jespe\\Desktop\\lektion\\lektion.csproj",
-        "packagesPath": "C:\\Users\\jespe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jespe\\Desktop\\lektion\\obj\\",
+        "projectPath": "C:\\Users\\Niklas Allard\\Desktop\\KYH\\CICD\\xunit_count\\testontestontest\\lektion.csproj",
+        "packagesPath": "C:\\Users\\Niklas Allard\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Niklas Allard\\Desktop\\KYH\\CICD\\xunit_count\\testontestontest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jespe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Niklas Allard\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
